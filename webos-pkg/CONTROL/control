@@ -1,0 +1,7 @@
+Package: com.sopwith.game
+Version: 2.9.0
+Section: games
+Architecture: armv7
+Maintainer: SDL Sopwith Team
+Description: SDL Sopwith - Classic WWI Biplane Game
+Homepage: https://github.com/fragglet/sdl-sopwith

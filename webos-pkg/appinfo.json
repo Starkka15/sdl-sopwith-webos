@@ -1,0 +1,9 @@
+{
+    "id": "com.sopwith.game",
+    "version": "2.9.0",
+    "vendor": "SDL Sopwith Team",
+    "type": "game",
+    "main": "sopwith",
+    "title": "SDL Sopwith",
+    "icon": "icon.png"
+}
