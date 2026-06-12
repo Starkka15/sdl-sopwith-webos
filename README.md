@@ -1,26 +1,12 @@
-# sdl-sopwith-webos
+# SDL Sopwith for webOS TouchPad
 
-⚠️ **Note: This repo name is misleading — it actually contains Bos Wars 2.8, not SDL Sopwith.**
+SDL Sopwith 2.9.0 — a port of the classic biplane shoot-em-up to HP webOS TouchPad.
 
-## Bos Wars for webOS TouchPad
+**Source temporarily unavailable** — was lost during cleanup. Will be re-uploaded once recovered or rebuilt from upstream.
 
-Bos Wars 2.8 — a futuristic real-time strategy game — ported to HP webOS TouchPad with OpenGL ES rendering.
+### Upstream
 
-### Port changes
-
-- Converted OpenGL immediate mode to GLES 1.x vertex arrays
-- Added PDL initialization for webOS
-- Modified video, SDL, GL graphics, and minimap rendering
-- Wrapped texture compression code (unavailable in GLES)
-- Includes cross-compile build script (build-webos.sh) and packaging script (package-webos.sh)
-
-### Building
-
-Requires webOS PDK and ARM cross-compiler toolchain.
-
-\`\`\`bash
-./build-webos.sh
-\`\`\`
+https://github.com/fragglet/SDL-sopwith
 
 ### License
 
